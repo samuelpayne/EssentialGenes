@@ -1,9 +1,16 @@
 #some stuff associated with notebooks
 __pycache__
 .ipynb_checkpoints
+
 # if feel like dataframes are constantly in flux and should not be checked in
 # you can always get them by running the notebook
 *df.txt
+
+# I feel the same way about .png image files. They are big and can be re-made
+# by running the notebook
+R_pal_images
+
+
 # the whole COG file is too big to store in github. Together these two files
 # are 200 MB. If you want it, you will
 # need to get that from NCBI yourself. You can get it at
