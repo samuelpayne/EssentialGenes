@@ -1,0 +1,181 @@
+Supplementary Table S6. Photoheterotrophic growth-esssential genes in R. palustris						
+Locus	Gene Length (bp)	Gene	Product	COGs	Functional Group	Avg. fold change in protein abundance phototrophic/aerobic (log2)1
+RPA0066	315	ihfB	integration host factor subunit beta	"[L] Replication, recombination and repair"	"DNA replication, recombination & repair"	ND2
+RPA0076	723	-	nucleotidyl transferase	Not in COGs	biosynthesis	-0.33
+RPA0128	960	-	sugar ABC transporter permease	[G] Carbohydrate transport and metabolism	transport	ND
+RPA0172	1071	-	-	Not in COGs	hypothetical protein	ND
+RPA0173	948	-	UDP-glucuronate decarboxylase/sugar nucleotide dehydratase	[M] Cell wall/membrane/envelope biogenesis	biosynthesis	-0.36
+RPA0175	135	atpC	ATP synthase F1 subcomplex epsilon subunit	[C] Energy production and conversion	energy generation	0.16
+RPA0181	2211	priA	replication restart DNA helicase PriA	"[L] Replication, recombination and repair"	"DNA replication, recombination & repair"	ND
+RPA0190	885	sucD	succinyl-CoA synthetase subunit alpha	[C] Energy production and conversion	biosynthesis	-0.74
+RPA0191	1197	sucC	succinyl-CoA synthetase subunit beta	[C] Energy production and conversion	biosynthesis	-0.51
+RPA0227	1113	leuB	3-isopropylmalate dehydrogenase	[E] Amino acid transport and metabolism	biosynthesis	-0.69
+RPA0235	606	leuD	isopropylmalate isomerase small subunit	[E] Amino acid transport and metabolism	biosynthesis	-0.35
+RPA0240	1410	leuC	isopropylmalate isomerase large subunit	[E] Amino acid transport and metabolism	biosynthesis	-0.39
+RPA0254	990	gpsA	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	[C] Energy production and conversion	biosynthesis	ND
+RPA0393	780	-	PA-phosphatase related phosphoesterase	Not in COGs	phosphatase	ND
+RPA0408	1824	bipA	GTP-binding protein TypA/GTPase	[T] Signal transduction mechanisms	biosynthesis	-1.43
+RPA0426	1227	fabB	3-oxoacyl-[acyl-carrier-protein] synthase	[I] Lipid transport and metabolism	biosynthesis	0.85
+RPA0427	810	fabI	enoyl-reductase	[I] Lipid transport and metabolism	biosynthesis	0.71
+RPA0435	414	rbfA	ribosome-binding factor A	"[J] Translation, ribosomal structure and biogenesis"	translation	ND
+RPA0439	780	rimP	ribosome maturation factor RimP	"[J] Translation, ribosomal structure and biogenesis"	translation	-0.73
+RPA0443	420	-	XRE family transcriptional regulator	[K] Transcription	transcription	-1.19
+RPA0450	432	-	FUR family transcriptional regulator	[P] Inorganic ion transport and metabolism	transcription	0.44
+RPA0505	147	-	-	Not in COGs	hypothetical protein	ND
+RPA0508	963	accA	acetyl-CoA carboxylase carboxyltransferase subunit alpha	[I] Lipid transport and metabolism	biosynthesis	0.40
+RPA0541	549	-	-	"[O] Posttranslational modification, protein turnover, chaperones"	hypothetical protein	ND
+RPA0571	555	regR	Fis family transcriptional regulator	"[K] Transcription
+[T] Signal transduction mechanisms"	transcription	0.59
+RPA0594	402	mutT	mutator protein mutT/5-methyl-dCTP pyrophosphohydrolase 	[F] Nucleotide transport and metabolism	biosynthesis	ND
+RPA0600	495	-	-	[S] Function unknown	hypothetical protein	ND
+RPA0635	1479	-	NtrB type sensor histidine kinase	[T] Signal transduction mechanisms	sensing and signalling	ND
+RPA0646	258	-	-	Not in COGs	hypothetical protein	ND
+RPA0705	195	-	-	Not in COGs	hypothetical protein	ND
+RPA0714	531	cobU	cobinamide kinase and cobinamide phosphate guanylyltransferase	[H] Coenzyme transport and metabolism	biosynthesis	ND
+RPA0716	3750	cobN	cobaltochelatase subunit CobN	[H] Coenzyme transport and metabolism	biosynthesis	-8.27
+RPA0719	972	cobD	cobalamin biosynthesis protein CobD	[H] Coenzyme transport and metabolism	biosynthesis	ND
+RPA0854	1230	hemO	5-aminolevulinate synthase	[H] Coenzyme transport and metabolism	biosynthesis	-1.91
+RPA0864	399	-	-	Not in COGs	hypothetical protein	ND
+RPA0930	603	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	[H] Coenzyme transport and metabolism	electron transfer	ND
+RPA0931	1539	ubiD	3-octaprenyl-4-hydroxybenzoate decarboxylase	[H] Coenzyme transport and metabolism	electron transfer	ND
+RPA0933	978	-	putative protease	"[O] Posttranslational modification, protein turnover, chaperones"	protease	6.68
+RPA0934	921	-	"Collagenase-like protease, PrtC family"	"[O] Posttranslational modification, protein turnover, chaperones"	protease	4.48
+RPA0938	1092	-	 TPR repeat	[T] Signal transduction mechanisms	hypothetical protein	-0.67
+RPA1019	342	-	ArsR family transcriptional regulator	[K] Transcription	transcription	ND
+RPA1023	312	-	-	Not in COGs	hypothetical protein	ND
+RPA1051	2742	-	pyruvate phosphate dikinase	[G] Carbohydrate transport and metabolism	biosynthesis	0.19
+RPA1055	1113	nadA	quinolinate synthetase	[H] Coenzyme transport and metabolism	electron transfer	ND
+RPA1063	996	-	 Uncharacterized conserved protein	[S] Function unknown	hypothetical protein	ND
+RPA1076	1428	-	FAD dependent 4-phosphoerythronate dehydrogenase	[C] Energy production and conversion	biosynthesis	-1.04
+RPA1097	747	-	Transcriptional and/or translational regulatory protein YebC/TACO1	"[J] Translation, ribosomal structure and biogenesis
+[K] Transcription"	hypothetical protein	ND
+RPA1147	894	-	"Predicted glycoside hydrolase or deacetylase ChbG, UPF0249 family"	[S] Function unknown	hypothetical protein	ND
+RPA1162	1284	garS	phosphoribosylamine--glycine ligase	[F] Nucleotide transport and metabolism	biosynthesis	-0.04
+RPA1167	1023	yfcB	[LSU ribosomal protein L3P]-glutamine N5-methyltransferase	"[J] Translation, ribosomal structure and biogenesis"	translation	1.34
+RPA1307	639	-	phosphatidylethanolamine N-methyltransferase	[H] Coenzyme transport and metabolism	biosynthesis	0.70
+RPA1506	1023	bchI	magnesium chelatase ATPase subunit I	[H] Coenzyme transport and metabolism	photosynthesis	2.22
+RPA1507	1773	bchD	magnesium chelatase subunit D	[H] Coenzyme transport and metabolism	photosynthesis	2.96
+RPA1512	1536	crtI	amine oxidase/phytoene dehydrogenase CrtI	"[Q] Secondary metabolites biosynthesis, transport and catabolism"	photosynthesis	1.87
+RPA1513	1068	crtB	squalene/phytoene synthase	[I] Lipid transport and metabolism	photosynthesis	ND
+RPA1519	867	crtE	polyprenyl synthetase/farnesyl-diphosphate synthase	[H] Coenzyme transport and metabolism	photosynthesis	ND
+RPA1521	939	bchC	2-desacetyl-2-hydroxyethyl bacteriochlorophyllide a dehydrogenase	"[E] Amino acid transport and metabolism
+[R] General function prediction only"	photosynthesis	-0.36
+RPA1522	999	bchX	bacteriochlorophyllide reductase iron protein subunit X	[P] Inorganic ion transport and metabolism	photosynthesis	ND
+RPA1523	1587	bchY	bacteriochlorophyllide reductase subunit Y	Not in COGs	photosynthesis	ND
+RPA1524	1449	bchZ	bacteriochlorophyllide reductase subunit Z	[P] Inorganic ion transport and metabolism	photosynthesis	ND
+RPA1525	198	pufB	antenna complex alpha/beta subunit	Not in COGs	photosynthesis	ND
+RPA1526	192	pufA	light-harvesting complex 1 subunit alpha	Not in COGs	photosynthesis	ND
+RPA1527	834	pufL	photosynthetic reaction center subunit L	Not in COGs	photosynthesis	6.55
+RPA1528	924	pufM	photosynthetic reaction center subunit M	Not in COGs	photosynthesis	2.79
+RPA1530	894	bchG	bacteriochlorophyll synthase	[H] Coenzyme transport and metabolism	photosynthesis	ND
+RPA1535	420	cycA	class I cytochrome c/cytochrome c2	[C] Energy production and conversion	photosynthesis	0.28
+RPA1541	486	bchF	2-vinyl bacteriochlorophillide hydratase 	Not in COGs	photosynthesis	ND
+RPA1542	1290	bchN	light-independent protochlorophyllide reductase subunit N	[P] Inorganic ion transport and metabolism	photosynthesis	1.04
+RPA1543	1623	bchB	light-independent protochlorophyllide reductase subunit B	[P] Inorganic ion transport and metabolism	photosynthesis	ND
+RPA1544	3747	bchH	magnesium chelatase subunit H	[H] Coenzyme transport and metabolism	photosynthesis	ND
+RPA1545	939	bchlL	protochlorophyllide reductase iron-sulfur ATP-binding protein	[P] Inorganic ion transport and metabolism	photosynthesis	ND
+RPA1546	702	bchM	Mg-protoporphyrin IX methyl transferase	Not in COGs	photosynthesis	ND
+RPA1548	768	puhA	photosynthetic reaction center complex subunit H1	Not in COGs	photosynthesis	2.12
+RPA1549	663	-	possible photosynthetic complex assembly protein	Not in COGs	photosynthesis	ND
+RPA1550	507	-	possible photosynthetic complex assembly protein	Not in COGs	photosynthesis	ND
+RPA1555	969	cbbR	LysR family transcription regulator	[K] Transcription	transcription	ND
+RPA1559	1458	cbbL	ribulose bisophosphate carboxylase large subunit	[G] Carbohydrate transport and metabolism	photosynthesis	6.65
+RPA1560	423	cbbS	ribulose bisphosphate carboxylase small chain	[G] Carbohydrate transport and metabolism	photosynthesis	5.43
+RPA1561	927	cbbX	probable RuBisCo-expression protein cbbX	[G] Carbohydrate transport and metabolism	photosynthesis	ND
+RPA1666	1350	hemN1	coproporphyrinogen III oxidase	[H] Coenzyme transport and metabolism	photosynthesis	2.86
+RPA1667	663	bchJ	bacteriochlorophyll 4-vinyl reductase	Not in COGs	photosynthesis	ND
+RPA1668	1698	bchE	magnesium-protoporphyrin IX monomethyl ester cyclase	[R] General function prediction only	photosynthesis	1.67
+RPA1693	597	sodB	superoxide dismutase	[P] Inorganic ion transport and metabolism	biosynthesis	-0.06
+RPA1920	504	cycJ	cytochrome c-type biogenesis protein CcmE	"[C] Energy production and conversion
+[O] Posttranslational modification, protein turnover, chaperones"	photosynthesis	ND
+RPA2000	1599	leuA	alpha-isopropylmalate/homocitrate synthase family transferase	[E] Amino acid transport and metabolism	biosynthesis	1.11
+RPA2031	1779	ilvI	acetolactate synthase 3 catalytic subunit	"[E] Amino acid transport and metabolism
+[H] Coenzyme transport and metabolism"	biosynthesis	0.70
+RPA2045	1011	bioB	biotin synthase	[H] Coenzyme transport and metabolism	biosynthesis	-2.69
+RPA2084	780	cobM	precorrin-4 C(11)-methyltransferase	[H] Coenzyme transport and metabolism	biosynthesis	0.78
+RPA2087	783	cobK	cobalt-precorrin-6x reductase	[H] Coenzyme transport and metabolism	biosynthesis	ND
+RPA2088	762	cobJ	precorrin-3B C(17)-methyltransferase	[H] Coenzyme transport and metabolism	biosynthesis	0.76
+RPA2089	729	cobI	precorrin-2 C(20)-methyltransferase	[H] Coenzyme transport and metabolism	biosynthesis	0.79
+RPA2090	630	cobH	precorrin-8X methylmutase	[H] Coenzyme transport and metabolism	biosynthesis	0.63
+RPA2093	1299	tucA	tricarballylate dehydrogenase	[C] Energy production and conversion	biosynthesis	ND
+RPA2097	765	cobF	precorrin 6A synthase	[H] Coenzyme transport and metabolism	biosynthesis	1.96
+RPA2421	411	-	NADH-ubiquinone oxidoreductase	[C] Energy production and conversion	electron transfer	ND
+RPA2435	1353	accC	acetyl-CoA carboxylase biotin carboxylase subunit	[I] Lipid transport and metabolism	biosynthesis	-0.25
+RPA2436	495	accB	acetyl-CoA carboxylase biotin carboxyl carrier protein	[I] Lipid transport and metabolism/[H] Coenzyme transport and metabolism	biosynthesis	ND
+RPA2442	768	-	putative outer membrane protein	"[O] Posttranslational modification, protein turnover, chaperones"	posttranslational modification	0.08
+RPA2463	1173	nifS1	class V aminotransferase	[E] Amino acid transport and metabolism	biosynthesis	ND
+RPA2501	1806	phbC	poly-beta-hydroxybutyrate synthase	[I] Lipid transport and metabolism	biosynthesis	0.64
+RPA2515	1092	kamA	"L-lysine 2,3-aminomutase"	[E] Amino acid transport and metabolism	biosynthesis	ND
+RPA2657	1635	-	beta (1-6) glucans synthase	[G] Carbohydrate transport and metabolism	biosynthesis	0.79
+RPA2694	765	pdxJ	pyridoxine 5'-phosphate synthase	[H] Coenzyme transport and metabolism	biosynthesis	-0.64
+RPA2695	441	acpS	4'-phosphopantetheinyl transferase	[I] Lipid transport and metabolism	biosynthesis	-0.55
+RPA2741	978	fabH	3-oxoacyl-[acyl-carrier-protein] synthase III	[I] Lipid transport and metabolism	biosynthesis	-0.33
+RPA2922	996	rpsB	30S ribosomal protein S2	"[J] Translation, ribosomal structure and biogenesis"	translation	-0.22
+RPA2967	1410	glnA	glutamine synthetase type I	[E] Amino acid transport and metabolism	biosynthesis	0.13
+RPA2970	1278	bioA	adenosylmethionine-8-amino-7-oxononanoate aminotransferase	[H] Coenzyme transport and metabolism	biosynthesis	ND
+RPA2971	639	bioD	dithiobiotin synthetase	[H] Coenzyme transport and metabolism	biosynthesis	ND
+RPA3052	654	purN	phosphoribosylglycinamide formyltransferase 	[F] Nucleotide transport and metabolism	biosynthesis	-0.49
+RPA3065	1014	pdxA	4-hydroxythreonine-4-phosphate dehydrogenase	[H] Coenzyme transport and metabolism	biosynthesis	0.13
+RPA3072	1266	fabF	3-oxoacyl-[acyl-carrier-protein] synthase II	"[I] Lipid transport and metabolism/[Q] Secondary metabolites biosynthesis, transport and catabolism"	biosynthesis	ND
+RPA3080	588	rplI	50S ribosomal protein L9	"[J] Translation, ribosomal structure and biogenesis"	translation	-0.51
+RPA3091	1530	purF	amidophosphoribosyltransferase	[F] Nucleotide transport and metabolism	biosynthesis	-1.46
+RPA3092	744	-	putative oxidoreductase	"[I] Lipid transport and metabolism
+[R] General function prediction only
+[Q] Secondary metabolites biosynthesis, transport and catabolism"	biosynthesis	0.42
+RPA3129	168	rpmG	50S ribosomal protein L33	"[J] Translation, ribosomal structure and biogenesis"	translation	-0.46
+RPA3155	852	panC	pantothenate synthetase	[H] Coenzyme transport and metabolism	biosynthesis	0.65
+RPA3157	1035	-	-	Not in COGs	hypothetical protein	ND
+RPA3322	1437	manC	mannose-1-phosphate guanylyltransferase	[M] Cell wall/membrane/envelope biogenesis	biosynthesis	0.40
+RPA3392	453	-	NifU homolog involved in Fe-S cluster formation	"[O] Posttranslational modification, protein turnover, chaperones"	posttranslational modification	-0.81
+RPA3479	690	-	putative hydroxylase	[R] General function prediction only	biosynthesis	0.09
+RPA3499	537	-	Uncharacterized protein	[S] Function unknown	hypothetical protein	0.70
+RPA3524	990	ftsQ	cell division protein FtsQ	"[D] Cell cycle control, cell division, chromosome partitioning"	"cell cycle, cell division & cell envelope"	0.37
+RPA3577	2001	thiC	thiamine biosynthesis protein ThiC	[H] Coenzyme transport and metabolism	biosynthesis	-1.59
+RPA3583	339	-	"Uncharacterized conserved protein, DUF1778 family"	[S] Function unknown	hypothetical protein	ND
+RPA3695	843	-	prephenate dehydratase	[E] Amino acid transport and metabolism	biosynthesis	-0.01
+RPA3701	888	metF	"5,10-methylenetetrahydrofolate reductase"	[E] Amino acid transport and metabolism	biosynthesis	1.43
+RPA3702	3882	metH	B12-dependent methionine synthase	[E] Amino acid transport and metabolism	biosynthesis	-1.06
+RPA3732	1392	argD1	class III aminotransferase	[E] Amino acid transport and metabolism	biosynthesis	-2.54
+RPA3775	3105	-	putative RND efflux transporter	[V] Defense mechanisms	stress response	ND
+RPA3776	1194	-	possible RND efflux membrane fusion protein precursor	"[V] Defense mechanisms
+[M] Cell wall/membrane/envelope biogenesis"	stress response	0.95
+RPA3827	324	-	-	Not in COGs	hypothetical protein	ND
+RPA3952	984	-	oxidoreductase Rmd	[M] Cell wall/membrane/envelope biogenesis	biosynthesis	ND
+RPA4015	1410	ahcY	S-adenosyl-L-homocysteine hydrolase	[H] Coenzyme transport and metabolism	biosynthesis	0.05
+RPA4072	477	greA	transcription elongation factor GreA	[K] Transcription	transcription	ND
+RPA4180	1404	pntB	NAD(P) transhydrogenase subunit beta	[C] Energy production and conversion	electron transfer	1.55
+RPA4181	324	pntA	nicotinamide nucleotide transhydrogenase subunit alpha2	[C] Energy production and conversion	electron transfer	ND
+RPA4182	1128	pntA	"nicotinamide nucleotide transhydrogenase, subunit alpha1"	[C] Energy production and conversion	electron transfer	1.16
+RPA4193	1434	pyk	pyruvate kinase	[G] Carbohydrate transport and metabolism	biosynthesis	-0.29
+RPA4216	2175	glcB	malate synthase G	[C] Energy production and conversion	biosynthesis	-0.23
+RPA4248	612	fixJ	response regulator FixJ	"[T] Signal transduction mechanisms
+[K] Transcription"	transcription	-0.69
+RPA4250	693	fixK	transcriptional regulator FixK	[T] Signal transduction mechanisms	transcription	ND
+RPA4253	1443	nuoM2	proton-translocating NADH-quinone oxidoreductase subunit M	[C] Energy production and conversion	electron transfer	ND
+RPA4254	2070	nuoL2	proton-translocating NADH-quinone oxidoreductase subunit L	[C] Energy production and conversion/[P] Inorganic ion transport and metabolism	electron transfer	ND
+RPA4257	522	nuoI2	NADH dehydrogenase subunit I	[C] Energy production and conversion	electron transfer	ND
+RPA4258	960	nuoH2	respiratory-chain NADH dehydrogenase subunit 1	[C] Energy production and conversion	electron transfer	ND
+RPA4260	1287	nuoF2	NADH dehydrogenase (quinone)	[C] Energy production and conversion	electron transfer	5.58
+RPA4262	1746	nuoCD	bifunctional NADH:ubiquinone oxidoreductase subunit C/D	[C] Energy production and conversion	electron transfer	ND
+RPA4308	1590	serA2	D-3-phosphoglycerate dehydrogenase	"[R] General function prediction only
+[H] Coenzyme transport and metabolism"	biosynthesis	0.02
+RPA4356	693	ctc	50S ribosomal protein L25	"[J] Translation, ribosomal structure and biogenesis"	translation	-0.01
+RPA4394	1635	aceA	isocitrate lyase	[C] Energy production and conversion	biosynthesis	ND
+RPA4395	1443	-	XRE family transcriptional regulator	[K] Transcription	transcription	0.66
+RPA4410	1536	glpD	glycerol-3-phosphate dehydrogenase	[C] Energy production and conversion	biosynthesis	ND
+RPA4436	696	-	Methionine biosynthesis protein MetW	Not in COGs	hypothetical protein	ND
+RPA4530	492	-	" Uncharacterized protein, UPF0262 family"	[S] Function unknown	hypothetical protein	ND
+RPA4582	984	galE2	UDP-galactose 4-epimerase	[M] Cell wall/membrane/envelope biogenesis	biosynthesis	-0.25
+RPA4642	1086	cbbA	"fructose-1,6-bisphosphate aldolase"	[G] Carbohydrate transport and metabolism	photosynthesis	2.28
+RPA4643	1968	cbbT1	transketolase	[G] Carbohydrate transport and metabolism	photosynthesis	2.74
+RPA4644	876	cbbP	phosphoribulokinase	[G] Carbohydrate transport and metabolism	photosynthesis	3.01
+RPA4645	1032	cbbF	"fructose-1,6-bisphosphatase"	[G] Carbohydrate transport and metabolism	photosynthesis	3.32
+RPA4661	798	otsB	trehalose-6-phosphate phophatase	[G] Carbohydrate transport and metabolism	biosynthesis	1.68
+RPA4748	882	hbdA	3-hydroxybutyryl-CoA dehydrogenase	[I] Lipid transport and metabolism	biosynthesis	-0.01
+RPA4749	945	etfA	electron transfer flavoprotein subunit alpha	[C] Energy production and conversion	electron transfer	-0.20
+RPA4750	750	etfB	electron transfer flavoprotein subunit beta	[C] Energy production and conversion	electron transfer	ND
+RPA4766	1212	metZ	O-succinylhomoserine sulfhydrylase	[E] Amino acid transport and metabolism	biosynthesis	-0.79
+RPA4774	642	-	GcrA cell cycle regulator	[S] Function unknown	"cell cycle, cell division & cell envelope"	ND
+RPA4779	1002	pstC	phosphate ABC transporter permease/ PhoT family	[P] Inorganic ion transport and metabolism	transport	ND
+1Log2 fold change great than zero shown in red and less than zero shown in blue						
+"2ND, fold change not determined because protein was not detected or protein abundance values from MaxQuant were not significantly different between conditions"						

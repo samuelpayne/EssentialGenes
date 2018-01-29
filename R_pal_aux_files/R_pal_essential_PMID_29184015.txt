@@ -1,0 +1,119 @@
+Supplementary Table S5. Functional categories of R. palustris longevity genes.						
+Locus Tag	Gene Length (bp)	Strand	Gene	Product	COGs	Category
+RPA0537	1560	-	-	acetyl-CoA hydrolase	[C] Energy production and conversion	Biosynthesis
+RPA0650	777	-	badK	cyclohex-1-ene-1-carboxyl-CoA hydratase	[I] Lipid transport and metabolism	Biosynthesis
+RPA0654	768	-	badH	2-hydroxycyclohexanecarboxyl-CoA dehydrogenase	[R] General function prediction only	Biosynthesis
+RPA0816	1791	+	-	acyl-CoA dehydrogenase	[I] Lipid transport and metabolism	Biosynthesis
+RPA0817	1209	+	-	acetyl-CoA acetyltransferase	[I] Lipid transport and metabolism	Biosynthesis
+RPA0888	1047	-	-	alpha/beta hydrolase	[I] Lipid transport and metabolism	Biosynthesis
+RPA0895	777	-	-	3-oxoacyl-[ACP] reductase	"[I] Lipid transport and metabolism, [R] General function prediction only, [Q] Secondary metabolites biosynthesis, transport and catabolism"	Biosynthesis
+RPA1028	549	+	moaB	molybdopterin biosynthesis protein B	[H] Coenzyme transport and metabolism	Biosynthesis
+RPA1030	753	+	-	CoA transferase subunit B	[I] Lipid transport and metabolism	Biosynthesis
+RPA1226	1164	+	oorA	2-oxoglutarate ferredoxin oxidoreductase subunit alpha	[C] Energy production and conversion	Biosynthesis
+RPA1238	849	-	-	enoyl-CoA hydratase	[I] Lipid transport and metabolism	Biosynthesis
+RPA1257	798	-	cobS	cobalamin (5`-phosphate) synthase	[H] Coenzyme transport and metabolism	Biosynthesis
+RPA2115	489	+	cynS	cyanate hydratase	[P] Inorganic ion transport and metabolism	Biosynthesis
+RPA2588	474	+	-	cyclase	[I] Lipid transport and metabolism	Biosynthesis
+RPA2635	870	+	nifH3	nitrogenase reductase NifH subunit	[P] Inorganic ion transport and metabolism	Biosynthesis
+RPA2828	873	-	-	phytoene synthase	[I] Lipid transport and metabolism	Biosynthesis
+RPA3229	1116	-	adk	adenylate kinase	[F] Nucleotide transport and metabolism	Biosynthesis
+RPA3321	1497	-	algC	phosphomannomutase	[G] Carbohydrate transport and metabolism	Biosynthesis
+RPA3758	807	+	hpcG	"2-oxo-hepta-3-ene-1,7-dioic acid hydratase"	"[Q] Secondary metabolites biosynthesis, transport and catabolism"	Biosynthesis
+RPA4461	423	-	-	cytochrome subunit of sulfide dehydrogenase	[C] Energy production and conversion	Biosynthesis
+RPA4514	1701	+	-	alkaline phosphatase	[P] Inorganic ion transport and metabolism	Biosynthesis
+RPA4562	906	+	apbA/panE	2-dehydropantoate 2-reductase	[H] Coenzyme transport and metabolism	Biosynthesis
+RPA4596	732	+	fabG5	3-oxoacyl-ACP reductase	[R] General function prediction only	Biosynthesis
+RPA4616	1374	-	nifN	nitrogenase molybdenum-cofactor biosynthesis protein NifN	[C] Energy production and conversion	Biosynthesis
+RPA4630	1557	-	nifB	nitrogenase cofactor biosynthesis protein NifB	[R] General function prediction only	Biosynthesis
+RPA4698	696	+	fldZ	4-hydroxy-4-methyl-2-oxoglutarate aldolase	[H] Coenzyme transport and metabolism	Biosynthesis
+RPA4700	915	+	ligI	"2-pyrone-4,6-dicarboxylic acid hydrolase"	[R] General function prediction only	Biosynthesis
+RPA0134	1860	-	hydC	hydrogenase gamma-fused hydrogenase large and small subunit	"[R] General function prediction only, [C] Energy production and conversion"	Energy metabolism
+RPA0969	867	+	hupH	hydrogenase expression/formation protein HupH	not in COGs	Energy metabolism
+RPA0971	525	+	hupJ	hydrogenase expression/formation protein HupJ	not in COGs	Energy metabolism
+RPA0973	342	+	hypA	hydrogenase formation/expression protein HypA	[R] General function prediction only	Energy metabolism
+RPA1547	1434	+	lhaA	photosynthetic complex (LH1) assembly protein LhaA	not in COGs	Energy metabolism
+RPA2594	2292	+	ntrY	multi-sensor signal transduction histidine kinase	[T] Signal transduction mechanisms	Energy metabolism
+RPA4602	297	-	fixX	ferredoxin like protein fixX	[C] Energy production and conversion	Energy metabolism
+RPA0269	198	+	-	hypothetical protein	[S] Function unknown	Hypothetical
+RPA0277	195	+	-	hypothetical protein	[S] Function unknown	Hypothetical
+RPA0744	285	-	-	high potential iron sulfur protein	not in COGs	Hypothetical
+RPA0812	801	-	-	hypothetical protein	not in COGs	Hypothetical
+RPA0834	180	+	CoxF	CoxF protein	not in COGs	Hypothetical
+RPA0946	378	+	-	hypothetical protein	not in COGs	Hypothetical
+RPA1092	372	+	-	carboxymuconolactone decarboxylase	[S] Function unknown	Hypothetical
+RPA1183	2826	-	-	double-transmembrane region-like protein	not in COGs	Hypothetical
+RPA1190	633	-	-	hypothetical protein	"[O] Posttranslational modification, protein turnover, chaperones"	Hypothetical
+RPA1333	657	+	-	hypothetical protein	not in COGs	Hypothetical
+RPA1353	741	+	-	hypothetical protein	[M] Cell wall/membrane/envelope biogenesis	Hypothetical
+RPA1388	1011	+	-	hypothetical protein	[M] Cell wall/membrane/envelope biogenesis	Hypothetical
+RPA1432	531	-	-	nitroimidazole resistance protein	[R] General function prediction only	Hypothetical
+RPA1616	807	-	-	hypothetical protein	not in COGs	Hypothetical
+RPA1679	315	+	-	hypothetical protein	not in COGs	Hypothetical
+RPA1760	375	+	-	hypothetical protein	not in COGs	Hypothetical
+RPA1897	321	+	GTA	hypothetical protein	[R] General function prediction only	Hypothetical
+RPA2079	120	+	-	hypothetical protein	not in COGs	Hypothetical
+RPA2092	1137	-	-	citrate utilization protein B (tcuB?)	not in COGs	Hypothetical
+RPA2228	348	-	trbK	hypothetical protein	not in COGs	Hypothetical
+RPA2273	297	+	-	hypothetical protein	not in COGs	Hypothetical
+RPA2335	342	-	-	hypothetical protein	not in COGs	Hypothetical
+RPA2338	501	-	-	hypothetical protein	not in COGs	Hypothetical
+RPA2468	369	+	-	hypothetical protein	[R] General function prediction only	Hypothetical
+RPA2537	306	+	-	ETC complex I subunit region	not in COGs	Hypothetical
+RPA2565	138	-	-	O-acetylserine (thiol) lyase C-terminal portion	not in COGs	Hypothetical
+RPA2691	651	-	-	hypothetical protein	[S] Function unknown	Hypothetical
+RPA3158	192	-	-	hypothetical protein	not in COGs	Hypothetical
+RPA3213	216	+	-	hypothetical protein	not in COGs	Hypothetical
+RPA3411	1164	-	-	hypothetical protein	not in COGs	Hypothetical
+RPA3432	246	+	-	hypothetical protein	[S] Function unknown	Hypothetical
+RPA4141	252	+	-	hypothetical protein	[S] Function unknown	Hypothetical
+RPA4214	315	-	-	hypothetical protein	not in COGs	Hypothetical
+RPA4224	285	+	-	hypothetical protein	not in COGs	Hypothetical
+RPA4276	300	+	-	hypothetical protein	not in COGs	Hypothetical
+RPA4393	216	-	-	hypothetical protein	not in COGs	Hypothetical
+RPA4476	513	-	-	hypothetical protein	[S] Function unknown	Hypothetical
+RPA4599	273	+	-	hypothetical protein	not in COGs	Hypothetical
+RPA4610	321	-	-	HesB/YadR/YfhF	[S] Function unknown	Hypothetical
+RPA4692	378	+	-	hypothetical protein	not in COGs	Hypothetical
+RPA4739	2562	-	-	hypothetical protein	not in COGs	Hypothetical
+RPA4818	339	-	-	hypothetical protein	[S] Function unknown	Hypothetical
+RPA4824	375	-	-	hypothetical protein	not in COGs	Hypothetical
+RPA3085	1242	+	-	alanine racemase	[M] Cell wall/membrane/envelope biogenesis	Membrane
+RPA3532	1410	-	murD	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	[M] Cell wall/membrane/envelope biogenesis	Membrane
+RPA0305	585	+	-	Smr protein/MutS2	[S] Function unknown	DNA replication and repair
+RPA3113	483	+	-	Holliday junction resolvase-like protein	"[L] Replication, recombination and repair"	DNA replication and repair
+RPA1314	432	+	-	chemotaxis protein CheY	[T] Signal transduction mechanisms	Signal transduction
+RPA4247	1527	+	fixL	two component low oxygen sensor histidine kinase	[T] Signal transduction mechanisms	Signal transduction
+RPA4367	1389	-	-	sensor signal transduction histidine kinase	[T] Signal transduction mechanisms	Signal transduction
+RPA0463	630	+	-	TetR family transcriptional regulator	not in COGs	Transcription
+RPA0766	708	+	-	Crp/Fnr family transcriptional regulator	[T] Signal transduction mechanisms	Transcription
+RPA0917	510	+	-	AraC family transcriptional regulator	[S] Function unknown	Transcription
+RPA1173	261	-	cspA1	cold-shock DNA-binding domain-containing protein	[K] Transcription	Transcription
+RPA2294	696	+	-	TetR family transcriptional regulator	[K] Transcription	Transcription
+RPA2693	2283	+	relA	GTP pyrophosphokinase	"[T] Signal transduction mechanisms, [K] Transcription"	Transcription
+RPA4097	627	+	-	TetR family transcriptional regulator	[K] Transcription	Transcription
+RPA4187	1488	+	-	Fis family transcriptional regulator	[T] Signal transduction mechanisms	Transcription
+RPA0294	1941	-	gidA	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA	"[D] Cell cycle control, cell division, chromosome partitioning"	Translation
+RPA0442	798	-	trmB	tRNA (guanine-N(7)-)-methyltransferase	[R] General function prediction only	Translation
+RPA0446	573	-	ybeY	16s rRNA maturation factor	[R] General function prediction only	Translation
+RPA1922	510	+	cycL	cytochrome C biogenesis protein	"[O] Posttranslational modification, protein turnover, chaperones"	Translation
+RPA2183	621	+	-	DSBA oxidoreductase	"[Q] Secondary metabolites biosynthesis, transport and catabolism"	Translation
+RPA2580	666	+	-	protein-L-isoaspartate(D-aspartate) O-methyltransferase	"[O] Posttranslational modification, protein turnover, chaperones"	Translation
+RPA2698	927	+	era	GTP-binding protein Era	[R] General function prediction only	Translation
+RPA3491	1152	-	hflK	HflK protein	"[O] Posttranslational modification, protein turnover, chaperones"	Translation
+RPA3653	261	-	-	SirA-like protein	"[O] Posttranslational modification, protein turnover, chaperones"	Translation
+RPA4354	1098	-	-	GTP-dependent nucleic acid-binding protein EngD	"[J] Translation, ribosomal structure and biogenesis"	Translation
+RPA0026	1398	+	-	major facilitator transporter	[R] General function prediction only	Transporter
+RPA0485	1206	-	-	urea/short-chain amide ABC transporter	[E] Amino acid transport and metabolism	Transporter
+RPA0722	780	-	fecE	iron(III) dicitrate ABC transporter ATP-binding protein FecE	"[H] Coenzyme transport and metabolism, [P] Inorganic ion transport and metabolism"	Transporter
+RPA0755	978	-	-	oligopeptide ABC transporter ATP-binding protein	"[P] Inorganic ion transport and metabolism, [E] Amino acid transport and metabolism"	Transporter
+RPA0760	954	-	-	oligopeptide ABC transporter permease	"[P] Inorganic ion transport and metabolism, [E] Amino acid transport and metabolism"	Transporter
+RPA1216	942	-	-	ABC transporter permease	"[E] Amino acid transport and metabolism, [P] Inorganic ion transport and metabolism"	Transporter
+RPA1396	1056	+	-	sugar ABC transporter permease	[G] Carbohydrate transport and metabolism	Transporter
+RPA2848	510	-	tatB	twin-arginine translocation protein TatB	"[U] Intracellular trafficking, secretion, and vesicular transport"	Transporter
+RPA3480	2202	-	fiu	outer membrane receptor for iron transport	[P] Inorganic ion transport and metabolism	Transporter
+RPA3724	1233	+	ilvK	high-affinity leucine-isoleucine-valine transport system periplasmic binding protein	[E] Amino acid transport and metabolism	Transporter
+RPA3809	741	+	livF	branched chain amino acid ABC transporter ATP-binding protein	[E] Amino acid transport and metabolism	Transporter
+RPA4715	1122	-	modC	molybdate ABC transporter ATP-binding protein	[P] Inorganic ion transport and metabolism	Transporter
+RPA4800	1212	-	-	transporter	[G] Carbohydrate transport and metabolism	Transporter
+RPA4807	1221	+	-	branched chain amino-acid ABC transporter substrate-binding protein	[E] Amino acid transport and metabolism	Transporter
+RPA4809	654	+	-	ABC transporter ATP-binding protein	[V] Defense mechanisms	Transporter
