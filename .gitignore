@@ -10,6 +10,9 @@ __pycache__
 # by running the notebook
 R_pal_images
 
+#the ppt directory is for power points that I am making based on what I find
+#these are largely visual things and largely for me.
+ppt
 
 # the whole COG file is too big to store in github. Together these two files
 # are 200 MB. If you want it, you will
